@@ -104,3 +104,10 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+3D-final-soccer-game/Library/
+3D-final-soccer-game/Temp/
+3D-final-soccer-game/Obj/
+3D-final-soccer-game/Logs/
+3D-final-soccer-game/UserSettings/
+3D-final-soccer-game/MemoryCaptures/
+3D-final-soccer-game/Recordings/
