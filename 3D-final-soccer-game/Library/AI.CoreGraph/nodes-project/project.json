@@ -1,0 +1,14 @@
+﻿[
+  {
+    "id": "project_root",
+    "type": "project",
+    "name": "3D-final-soccer-game",
+    "unity_version": "6000.3.8f1",
+    "description": "Central project node for 3D-final-soccer-game. Connects to all scenes, asset types, and tool categories.",
+    "scene_count": 4,
+    "asset_count": 17110,
+    "tool_count": 0,
+    "asset_type_count": 38,
+    "tool_category_count": 0
+  }
+]

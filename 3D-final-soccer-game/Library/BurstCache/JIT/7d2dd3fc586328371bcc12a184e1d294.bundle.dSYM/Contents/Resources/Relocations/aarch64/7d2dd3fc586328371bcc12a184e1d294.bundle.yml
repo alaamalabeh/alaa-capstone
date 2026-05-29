@@ -1,0 +1,7 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/alaa/Documents/GitHub/alaa-capstone/3D-final-soccer-game/Temp/Burst/burst-aotzm4jdzkq.2jx/7d2dd3fc586328371bcc12a184e1d294.bundle'
+relocations:
+  - { offset: 0x1E, size: 0x8, addend: 0x0, symName: '_Unity.Jobs.IJobParallelForExtensions.ParallelForJobStruct`1<Unity.InferenceEngine.CPUBackend.GlobalAverageVariancePoolJob>.Execute(ref Unity.InferenceEngine.CPUBackend.GlobalAverageVariancePoolJob jobData, System.IntPtr additionalPtr, System.IntPtr bufferRangePatchData, ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex) -> void_037478f4e034e4974338058cdb94d633 from UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x70, symBinAddr: 0x4C0, symSize: 0x2B0 }
+  - { offset: 0x3D, size: 0x8, addend: 0x0, symName: '_Unity.Jobs.IJobParallelForExtensions.ParallelForJobStruct`1<Unity.InferenceEngine.CPUBackend.GlobalAverageVariancePoolJob>.Execute(ref Unity.InferenceEngine.CPUBackend.GlobalAverageVariancePoolJob jobData, System.IntPtr additionalPtr, System.IntPtr bufferRangePatchData, ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex) -> void_037478f4e034e4974338058cdb94d633 from UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x70, symBinAddr: 0x4C0, symSize: 0x2B0 }
+...

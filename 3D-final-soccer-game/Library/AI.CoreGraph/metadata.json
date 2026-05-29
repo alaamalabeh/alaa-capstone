@@ -1,0 +1,22 @@
+﻿{
+  "total_scenes": 4,
+  "total_assets": 17110,
+  "total_tools": 0,
+  "total_asset_types": 38,
+  "total_tool_categories": 0,
+  "total_projects": 1,
+  "total_scene_directlyDependsOn_asset_edges": 37,
+  "total_asset_directlyDependsOn_asset_edges": 4513,
+  "total_asset_directlyReferencedBy_scene_edges": 37,
+  "total_assetType_includes_asset_edges": 17114,
+  "total_toolCategory_includes_tool_edges": 0,
+  "total_project_canUse_toolCategory_edges": 0,
+  "total_project_has_scene_edges": 4,
+  "total_project_contains_assetType_edges": 38,
+  "total_asset_inheritsFrom_asset_edges": 2590,
+  "total_asset_implements_asset_edges": 1643,
+  "total_asset_declares_asset_edges": 11940,
+  "total_asset_uses_asset_edges": 36307,
+  "project_name": "3D-final-soccer-game",
+  "unity_version": "6000.3.8f1"
+}

@@ -1,0 +1,261 @@
+﻿[
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalCameraData_cs",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalCameraData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Basic_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalCameraData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalCameraData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Volume_Volume_cs",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Volume_Volume_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Volume_Volume_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Basic_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Settings_SampleSceneProfile_asset",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_LightingData_asset",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Ground_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Ground_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_BackgroundMesh_fbx",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Emissive_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Black_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Black_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_GlobalVolumeProfile_asset",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Lighting_ProbeVolume_ProbeVolumePerSceneData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_SamplesFixture_fbx",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Camera_FreeCamera_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Camera_FreeCamera_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_SamplesSpotlightModel_fbx",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_SamplesFloorSpotlight_fbx",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Metal_Black_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Gold_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Gold_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_UnityMaterialBall_fbx",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_UnityMaterialBall_fbx",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_White_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_White_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Lighting_ProbeVolume_ProbeVolume_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Lighting_ProbeVolume_ProbeVolume_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_LightingData_asset",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_GlobalVolumeProfile_asset",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  }
+]
