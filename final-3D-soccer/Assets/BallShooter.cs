@@ -973,8 +973,12 @@ public class BallShooter : MonoBehaviour
     [Header("Ground Level")]
     public float groundY = 243f;
 
+    // [Header("Start Screen")]
+    // public GameObject startScreen;
+
     [Header("Start Screen")]
     public GameObject startScreen;
+    public UnityEngine.UI.Button startButton;
 
     private Text scoreText;
     private Text statusText;
@@ -1061,22 +1065,48 @@ public class BallShooter : MonoBehaviour
         StartCoroutine(WaitForStartTap());
     }
 
+    // IEnumerator WaitForStartTap()
+    // {
+    //     while (true)
+    //     {
+    //         if (Input.GetMouseButtonDown(0) || (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began))
+    //         {
+    //             if (startScreen != null) startScreen.SetActive(false);
+    //             UpdateUI("Wait for the ball!");
+    //             sessionStartTime = Time.time;
+    //             roundCoroutine = StartCoroutine(RunRound());
+    //             StartCoroutine(SessionTimer());
+    //             yield break;
+    //         }
+    //         yield return null;
+    //     }
+    // }
+
     IEnumerator WaitForStartTap()
+{
+    if (startButton != null)
+    {
+        bool pressed = false;
+        startButton.onClick.AddListener(() => pressed = true);
+        while (!pressed) yield return null;
+        startButton.onClick.RemoveAllListeners();
+    }
+    else
     {
         while (true)
         {
             if (Input.GetMouseButtonDown(0) || (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began))
-            {
-                if (startScreen != null) startScreen.SetActive(false);
-                UpdateUI("Wait for the ball!");
-                sessionStartTime = Time.time;
-                roundCoroutine = StartCoroutine(RunRound());
-                StartCoroutine(SessionTimer());
-                yield break;
-            }
+                break;
             yield return null;
         }
     }
+
+    if (startScreen != null) startScreen.SetActive(false);
+    UpdateUI("Wait for the ball!");
+    sessionStartTime = Time.time;
+    roundCoroutine = StartCoroutine(RunRound());
+    StartCoroutine(SessionTimer());
+}
 
     void Update()
     {
